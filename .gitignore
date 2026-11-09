@@ -1,0 +1,11 @@
+
+# Archivos compilados de Java
+/bin/
+*.class
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración personal del editor
+.settings/
